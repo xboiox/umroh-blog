@@ -16,7 +16,7 @@ _Labbaika Allahumma bi 'Umrah._ <br>
 Artinya: "Aku sambut panggilanMu ya Allah dengan umrah."
 </details>
 
-<details>
+<details open>
 <summary>niat umroh lengkap</summary>
 نَوَيْتُ العُمْرَةَ وَأَحْرَمْتُ بِهَا لِلهِ تَعَالَى لَبَّيْكَ اللَّهُمَّ بعُمْرَة
 
@@ -25,8 +25,31 @@ Artinya: “Aku niat melaksanakan umrah dan berihram karena Allah Swt. Aku sambu
 </details>
 
 Dalam perjalanan menuju Masjidil Haram dari miqat sebaiknya memperbanyak bacaan talbiyah yang diucapkan Rasulullah SAW ketika umroh dan haji.
-
+<details open>
+<summary>bacaan talbiyah</summary>
 لَبَّیكَ الّلهُمَّ لَبَّیكَ، لَبَّیكَ لاشَریكَ لَكَ لَبَّیكَ، إنَّ الْحَمدَ وَ النِّعمَةَ لَكَ وَ الْمُلكَ، لاشَریكَ لَكَ لَبَّیكَ
 
 _Labbaik Allahumma labbaik, labbaika laa syariika laka labbaik, innal hamda wan ni'mata laka wal mulk laa syariika laka labbaik._ <br>
 Artinya: "Aku penuhi panggilanMu ya Allah, aku penuhi panggilanMu ya Allah dan tiada sekutu bagiMu. Sesungguhnya segala puji, nikmat, serta kekuasaaan hanya bagi-Mu tanpa sekutu apapun bagi-Mu."
+</details>
+
+> [!CAUTION] 
+> Larangan ketika mengenakan Ihram
+> - Larangan bagi pria:
+>   - memakai pakaian biasa
+>   - memakai alas kaki yang menutupi mata kaki
+>   - menutup kepala dengan peci, topi, dan sebagainya
+> - Larangan bagi wanita:
+>   - memakai kaos tangan
+>   - menutup muka
+> - Larangan bagi pria dan wanita:
+>   - memakai wangi-wangian
+>   - memotong kuku, mencukur atau mencabut rambut atau bulu
+>   - memburu atau mematikan binatang apa pun
+>   - menikah, menikahkan atau meminang wanita untuk dinikahi
+>   - bermesraan atau berhubungan intim
+>   - mencaci, bertengkar atau mengeluarkan kata-kata kotor
+>   - memotong tanaman di sekitar Mekkah
+
+
+### 2. Thawaf

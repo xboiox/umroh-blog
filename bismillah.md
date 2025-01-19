@@ -9,7 +9,7 @@ Dimulai dengan penggunaan pakaian ihram khusus. Untuk pria pakaian ihram berwarn
    - Al-Juhfah, diperuntukkan bagi jamaah yang datang dari arah Mesir, Syam, Tunisia, Lubnan, Jordan, hingga Palestina
    - Zatu Irqin, diperuntukkan bagi jamaah yang datang dari arah Iraq
 <details open>
-<summary>niat umroh</summary>
+<summary>Niat umroh</summary>
 لَبَّيْكَ اللَّهُمَّ بِعُمْرَةِ
 
 _Labbaika Allahumma bi 'Umrah._ <br>
@@ -17,7 +17,7 @@ Artinya: "Aku sambut panggilanMu ya Allah dengan umrah."
 </details>
 
 <details open>
-<summary>niat umroh lengkap</summary>
+<summary>Niat umroh lengkap</summary>
 نَوَيْتُ العُمْرَةَ وَأَحْرَمْتُ بِهَا لِلهِ تَعَالَى لَبَّيْكَ اللَّهُمَّ بعُمْرَة
 
 _Nawaitul ‘umrata wa ahramtu bihi lillahi ta’ala labbaika Allahumma ‘umratan._<br>
@@ -26,7 +26,7 @@ Artinya: “Aku niat melaksanakan umrah dan berihram karena Allah Swt. Aku sambu
 
 Dalam perjalanan menuju Masjidil Haram dari miqat sebaiknya memperbanyak bacaan talbiyah yang diucapkan Rasulullah SAW ketika umroh dan haji.
 <details open>
-<summary>bacaan talbiyah</summary>
+<summary>Bacaan Talbiyah</summary>
 لَبَّیكَ الّلهُمَّ لَبَّیكَ، لَبَّیكَ لاشَریكَ لَكَ لَبَّیكَ، إنَّ الْحَمدَ وَ النِّعمَةَ لَكَ وَ الْمُلكَ، لاشَریكَ لَكَ لَبَّیكَ
 
 _Labbaik Allahumma labbaik, labbaika laa syariika laka labbaik, innal hamda wan ni'mata laka wal mulk laa syariika laka labbaik._ <br>
@@ -53,3 +53,29 @@ Artinya: "Aku penuhi panggilanMu ya Allah, aku penuhi panggilanMu ya Allah dan t
 
 
 ### 2. Thawaf
+Sebelum masuk Masjidil Haram, jamaah dianjurkan berwudhu dan masuk lewat pintu mana saja.
+<details>
+<summary>Doa memasuki masjidil haram</summary>
+اَللّٰهُمَّ أَنْتَ السَّلَامُ وَمِنْكَ السَّلَامُ فَحَيِّنَا رَبَّنَا بِالسَّلَامِ وَأَدْخِلْنَا الْجَنَّةَ دَارَالسَّلَامَ تَبَارَكْتَ وَتَعَالَيْتَ يَا ذَاالْجَلَالِ وَاْلإِكْرَامِ. اَللّٰهُمَّ افْتَحْ لِيْ أَبْوَابَ رَحْمَتِكَ وَمَغْفِرَتِكَ وَأَدْخِلْنِيْ فِيْهَا. بِسْمِ اللهِ وَالْحَمْدُ ِللهِ وَالصَّلَاةُ وَالسَّلَامُ عَلٰى رَسُوْلِ اللهِ
+
+_Allahumma antassalaam, waminkassalaam fahayyinaa rabbanaa bissalaam wa adkhilnal jannata daarassalaam tabaarakta wata'aalaita yaa dzaljalaali wal ikraam. Allahummaftah lii abwaaba rahmatika wamaghfiratika wa adkhilnii fiihaa. Bismillahi walhamdulillahi wasshalaatu wassalaamu 'alaa rasuulillaah._<br>
+Artinya: "Ya Allah, Engkau sumber keselamatan dan dari-Mulah datangnya keselamatan. Hidupkanlah kami wahai Tuhan kami dengan keselamatan, dan tempatkanlah kami pada surga, negeri keselamatan. Maha banyak anugerah-Mu dan Maha Tinggi Engkau wahai Tuhan yang memiliki keagungan dan kehormatan. Ya Allah ampunilah dosa-dosaku dan bukakanlah pintu-pintu rahmat-Mu. (Aku masuk masjid ini) dengan Nama Allah disertai segala puji bagi Allah, serta sholawat dan selamat untuk Rasulullah SAW."
+</details>
+Kemudian para jamaah melakukan tawaf, yaitu berjalan atau berjalan cepat mengelilingi Ka’bah dengan arah yang berlawanan dengan arah jarum jam. Bahu kiri harus selalu pada sisi Ka'bah. Untuk jamaah pria, baju ihram pada bahu kanan harus terlihat. <br>
+Putaran tawaf ini dilakukan mulai dari Hajar Aswad sebanyak 7 kali.
+<img src='https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/06/18/102774080.jpg' width=60%>
+<details>
+<summary>Doa dari Hajr Aswad - Makam Ibrahim</summary>
+سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلاَ إِلَهَ إِلاَّ اللَّهُ وَاللَّهُ أَكْبَرُ
+
+_Subhanallah walhamdulillah wala ilaha illallah wallahu akbar walahaula wala quwwata illa billahil aliyil adzim._<br>
+Artinya: “Maha Suci Allah, segala puji bagi Allah, tiada sesembahan yang berhak disembah selain Allah, dan Allah Maha Besar”.
+</details>
+
+<details>
+<summary>Doa dari Rukun Yamani ke - Hajr Aswad</summary>
+رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ
+
+_Rabbanaa aatinaa fiddunya hasanataw wa fil aakhirati hasanataw waqinaa 'adzaaban naar._<br>
+Artinya: "Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka."
+</details>

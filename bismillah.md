@@ -63,7 +63,7 @@ Artinya: "Ya Allah, Engkau sumber keselamatan dan dari-Mulah datangnya keselamat
 </details>
 Kemudian para jamaah melakukan tawaf, yaitu berjalan atau berjalan cepat mengelilingi Ka’bah dengan arah yang berlawanan dengan arah jarum jam. Bahu kiri harus selalu pada sisi Ka'bah. Untuk jamaah pria, baju ihram pada bahu kanan harus terlihat. <br>
 Putaran tawaf ini dilakukan mulai dari Hajar Aswad sebanyak 7 kali.
-<img src='https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/06/18/102774080.jpg' width=60%>
+<img src='https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/06/18/102774080.jpg' width=90%>
 <details>
 <summary>Doa dari Hajr Aswad - Makam Ibrahim</summary>
 سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلاَ إِلَهَ إِلاَّ اللَّهُ وَاللَّهُ أَكْبَرُ
@@ -79,3 +79,8 @@ Artinya: “Maha Suci Allah, segala puji bagi Allah, tiada sesembahan yang berha
 _Rabbanaa aatinaa fiddunya hasanataw wa fil aakhirati hasanataw waqinaa 'adzaaban naar._<br>
 Artinya: "Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka."
 </details>
+
+Referensi: [Doa Tawaf](https://www.facebook.com/kinanawisata/videos/asalamualaikum-wrwb-doa-tawaf-yang-di-anjurkan-by-ustadz-adi-hidayat-lc-ma/1355383601313798/). <br>
+
+> [!TIP]
+> Setelah selesai tawaf, jamaah haji disunnahkan untuk mengerjakan [Shalat Tawaf] sebanyak dua rakaat dan meminum air zamzam.

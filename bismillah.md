@@ -84,4 +84,9 @@ Artinya: "Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat,
 Referensi: [Doa Tawaf](https://www.facebook.com/kinanawisata/videos/asalamualaikum-wrwb-doa-tawaf-yang-di-anjurkan-by-ustadz-adi-hidayat-lc-ma/1355383601313798/). <br>
 
 > [!TIP]
-> Setelah selesai tawaf, jamaah haji disunnahkan untuk mengerjakan [Shalat Tawaf] sebanyak dua rakaat dan meminum air zamzam.
+> Setelah selesai tawaf, jamaah haji disunnahkan untuk mengerjakan [Shalat Tawaf](https://github.com/xboiox/umroh-blog/blob/main/solat.md#sholat-thawaf) sebanyak dua rakaat. Lalu meminum air zamzam sambil berdoa:  
+> اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا وَرِزْقًا وَاسِعًا وَشِفَاءً مِنْ كُلِّ دَاءٍ  
+> _Allāhumma innī as’aluka ‘ilman nafi‘an, wa rizqan wasi‘an, wa syifā’an min kulli dā’in._  
+> Artinya: Ya Allah, sungguh aku meminta kepada-Mu ilmu yang bermanfaat, rezeki yang luas, dan kesembuhan dari segala penyakit.
+
+

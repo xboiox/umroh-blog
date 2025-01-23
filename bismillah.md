@@ -1,6 +1,6 @@
 # Ibadah di Mekah
 ## Umroh
-Salah satu adab atau rangkaian yang dianjurkan untuk dilakukan sebelum mengenakan pakaian ihram dalam rangkaian haji atau umrah adalah melakukan [Mandi Ihram](. 
+Salah satu adab atau rangkaian yang dianjurkan untuk dilakukan sebelum mengenakan pakaian ihram dalam rangkaian haji atau umrah adalah melakukan [Mandi Ihram](https://github.com/xboiox/umroh-blog/blob/main/bersuci.md#mandi-ihram). 
 ### 1. Ihram
 Dimulai dengan penggunaan pakaian ihram khusus. Untuk pria pakaian ihram berwarna putih tanpa jahitan dan tidak diperbolehkan menutup bagian kepala. Sedangkan untuk wanita dapat menggunakan pakaian muslim apa saja yang menutup aurat dan tidak menutup muka dan kaos tangan. Kemudian melafalkan niat ibadah umrah di Miqat yang sudah ditentukan. Berikut ini lokasi Miqat yang telah ditentukan bagi peserta haji dan umrah, di antaranya:
    - Bir Ali (Zulhulaifah), diperuntukkan bagi jamaah yang datang dari arah Madinah

@@ -88,6 +88,7 @@ Referensi: [Doa Tawaf](https://www.facebook.com/kinanawisata/videos/asalamualaik
 
 ### 3. Sa'i
 Selanjutnya jamaah akan melakukan Sa’i, yakni berlari kecil dari Bukit Shafa menuju Bukit Marwah sebanyak 7 kali. Dianjurkan untuk melakukan rukun Sa’i ini tanpa putus seperti izin ke toilet atau sambil mengobrol dan kegiatan lainnya.  
+<img src='https://saputra51.wordpress.com/wp-content/uploads/2011/11/jalur-sai.jpg'>  
 - Ketika berjalan menuju Bukit Shafa, jamaah dianjurkan membaca ayat 158 dari surah Al-Baqarah:<br>  
 إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ ۖ فَمَنْ حَجَّ الْبَيْتَ أَوِ اعْتَمَرَ فَلَا جُنَاحَ عَلَيْهِ أَنْ يَطَّوَّفَ بِهِمَا ۚ وَمَنْ تَطَوَّعَ خَيْرًا فَإِنَّ اللَّهَ شَاكِرٌ عَلِيمٌ
 
@@ -103,6 +104,17 @@ Selanjutnya jamaah akan melakukan Sa’i, yakni berlari kecil dari Bukit Shafa m
 
   _Allaahu Akbar, Allaahu Akbar, Allaahu Akbar, walillaahil hamdu, AllaahuAkbar, 'alaamaa hadaanaa walhamdulillahi 'alamaa aulaana, Laa ilaaha illaallahu wahdahu la syarika lahu, lahul mulku walahul hamdu yuhyii wayumiitu biyadihil khaiiru wahuwa 'alaa kulli syai inqadiir. Laa ilaaha illallahu wahdahu lasyarika lah, anjaza wa'dahu wanasara 'abdahu wahazamal ahzaaba wahdah, laa ilaha illallahu walana' budu illaa iyyaahu mukhilisiina lahuddiina walau karihal kaafiruun_   
   Artinya: "Allah Mahabesar, Allah Mahabesar, Allah Mahabesar. Segala puji bagi Allah, Allah Mahabesar, atas petunjuk yang diberikan-Nya kepada kami, segala puji bagi Alloh atas karunia yang telah dianugerahkan-Nya kepada kami, tidak ada Tuhan selain Alloh Yang Maha Esa, tidak ada sekutu bagi Nya. Bagi-Nya kerajaan dan pujian. Dialah yang menghidupkan dan mematikan, pada kekuasaan-Nya lah segala kebaikan dan Dia berkuasa atas segala sesuatu, Tiada Tuhan Selain Alloh Yang Maha Esa, tidak ada sekutu bagi-Nya, yang telah menepati janji-Nya, menolong hamba-Nya dan menghancurkan sendiri musuh-musuh-Nya, Tidak ada Tuhan selain Alloh dan kami tidak menyembah kecuali kepada-Nya dengan memurnikan (ikhlas) kepatuhan semata kepada-Nya,  walaupun orang- orang kafir membenci"
+- Ketika diantara Dua Pilar Hijau membaca do’a:<br>  
+رَبِّ اغْفِرْ وَارْحَمْ وَاعْفُ وَتَكَرَّمْ وَتَجاَوَزْ عَمَّا تَعْلَمُ إِنَّكَ تَعْلَمُ ماَلاَ نَعْلَمُ إِنَّكَ أَنْتَ اللهُ الأَعَزُّ الأَكْرَمُ  
+
+  _Rabbigfir warham wa'fu watakarram watajawaz'amma 'ammaa ta'lam, innaka ta'lamu mala na'lam. Innaka antallahul a'azzul akram._  
+  Artinya: "Ya Allah, ampunilah, sayangilah, maafkanlah, bermurah hatilah dan hapuskanlah apa-apa yang Engkau ketahui dari dosakami. Sesungguhnya Engkau Maha Mengetahui apa-apa yang kami sendiri tidak tahu. Sesungguhnya Engkau ya Allah Maha Tinggi dan Maha Pemurah."
+- Ketika berjalan mendekati Bukit Marwah, jamaah dianjurkan kembali membaca ayat 158 dari surah Al-Baqarah:<br>  
+إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ ۖ فَمَنْ حَجَّ الْبَيْتَ أَوِ اعْتَمَرَ فَلَا جُنَاحَ عَلَيْهِ أَنْ يَطَّوَّفَ بِهِمَا ۚ وَمَنْ تَطَوَّعَ خَيْرًا فَإِنَّ اللَّهَ شَاكِرٌ عَلِيمٌ
+
+  _Innaṣ-ṣafā wal-marwata min sya'ā`irillāh, fa man ḥajjal-baita awi'tamara fa lā junāḥa 'alaihi ay yaṭṭawwafa bihimā, wa man taṭawwa'a khairan fa innallāha syākirun 'alīm_  
+  Artinya: “Sesungguhnya Shafaa dan Marwa adalah sebahagian dari syi'ar Allah. Maka barangsiapa yang beribadah haji ke Baitullah atau berumrah, maka tidak ada dosa baginya mengerjakan sa'i antara keduanya. Dan barangsiapa yang mengerjakan suatu kebajikan dengan kerelaan hati, maka sesungguhnya Allah Maha Mensyukuri kebaikan lagi Maha Mengetahui.”
+
 
 ### Tahalul
 Rangkaian ibadah yang terakhir adalah melakukan Tahallul atau mencukur rambut. Anjuran memotong rambut ini wajib dilakukan oleh seluruh jamaah ibadah umrah. Aturan memotong rambut minimal 3 helai rambut. Kendati demikian banyak para jamaah pria memutuskan untuk memotong sebagian rambutnya atau botak. Sedangkan untuk jamaah wanita dapat memotong sedikit rambutnya dibalik hijab. Setelah melakukan tahallul, jamaah dapat melakukan seluruh hal yang dilarang saat melakukan rangkaian umroh.

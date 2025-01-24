@@ -2,13 +2,10 @@
 ## Umroh
 Salah satu adab atau rangkaian yang dianjurkan untuk dilakukan sebelum mengenakan pakaian ihram dalam rangkaian haji atau umrah adalah melakukan [Mandi Ihram](https://github.com/xboiox/umroh-blog/blob/main/bersuci.md#mandi-ihram). 
 ### 1. Ihram
-Dimulai dengan penggunaan pakaian ihram khusus. Untuk pria pakaian ihram berwarna putih tanpa jahitan dan tidak diperbolehkan menutup bagian kepala. Sedangkan untuk wanita dapat menggunakan pakaian muslim apa saja yang menutup aurat dan tidak menutup muka dan kaos tangan. Kemudian melafalkan niat ibadah umrah di Miqat yang sudah ditentukan. Berikut ini lokasi Miqat yang telah ditentukan bagi peserta haji dan umrah, di antaranya:
+Dimulai dengan penggunaan pakaian ihram khusus. Untuk pria pakaian ihram berwarna putih tanpa jahitan dan tidak diperbolehkan menutup bagian kepala. Sedangkan untuk wanita dapat menggunakan pakaian muslim apa saja yang menutup aurat dan tidak menutup muka dan kaos tangan. Kemudian melafalkan niat ibadah umrah di Miqat yang sudah ditentukan. Berikut ini lokasi Miqat yang umum digunakan bagi peserta haji dan umrah jamaah dari Indonesia, di antaranya:
    - Bir Ali (Zulhulaifah), diperuntukkan bagi jamaah yang datang dari arah Madinah
    - Yalamlam, diperuntukkan bagi jamaah yang datang dari arah Yaman
    - Masjid Aisyah berada di Tan'im, yang merupakan batas tanah Haram terdekat dengan Masjidil Haram.
-   - Qarnul Manazil, diperuntukkan bagi jamaah yang datang dari Mekah ke Malaysia. Para jamaah ini wajib melafalkan niat ihram sebelum pesawat Qarnul Manazril
-   - Al-Juhfah, diperuntukkan bagi jamaah yang datang dari arah Mesir, Syam, Tunisia, Lubnan, Jordan, hingga Palestina
-   - Zatu Irqin, diperuntukkan bagi jamaah yang datang dari arah Iraq
 <details open>
 <summary>Niat umroh</summary>
 لَبَّيْكَ اللَّهُمَّ بِعُمْرَةِ

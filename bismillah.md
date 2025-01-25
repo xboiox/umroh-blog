@@ -114,7 +114,18 @@ Selanjutnya jamaah akan melakukan Sa’i, yakni berlari kecil dari Bukit Shafa m
 
   _Innaṣ-ṣafā wal-marwata min sya'ā`irillāh, fa man ḥajjal-baita awi'tamara fa lā junāḥa 'alaihi ay yaṭṭawwafa bihimā, wa man taṭawwa'a khairan fa innallāha syākirun 'alīm_  
   Artinya: “Sesungguhnya Shafaa dan Marwa adalah sebahagian dari syi'ar Allah. Maka barangsiapa yang beribadah haji ke Baitullah atau berumrah, maka tidak ada dosa baginya mengerjakan sa'i antara keduanya. Dan barangsiapa yang mengerjakan suatu kebajikan dengan kerelaan hati, maka sesungguhnya Allah Maha Mensyukuri kebaikan lagi Maha Mengetahui.”
+- Setelah selesai Sa'i di Bukit Marwah, baca doa berikut:<br>  
+  اللَّهُمَّ رَبَّنَا تَقَبَّلْ مِنَّا وَعَافِنَا وَاعْفُ عَنَّا وَعَلَى طَاعَتِكَ وَشُكْرِكَ أَعِنَّا وَعَلَى غَيْرِكَ لَا تَكِلْنَا وَعَلَى الْإِيْمَانَ وَالْإِسْلَامِ الكَامِل جَمِيْعًا تَوَفَّنَا وَأَنْتَ رَاضٍ عَنَّا اللَّهُمَّ ارْحَمْنِي بِتَرْكِ الْمَعَاصِيْ أَبَدًا مَا أَبْقَيْتَنِيْ وَارْحَمْنِيْ أَنْ أَتَكَلَّفَ مالايَعْنِينِي وَارْزُقْنِي حُسَنَ النَّظَرِ فِيْمَا يُرْضِيْكَ عَنِّي يَا أَرْحَمَ الرَّاحِمِينَ
+
+  _Allahumma rabbanaa taqabbal minna wa'aafinaa wa'fu 'anna, wa 'alaa tha'atika wa syukrika a'inna, wa 'alaa ghairika laa takilnaa wa 'alaal iimani wal islaamil kaamili jamii'an tawaffanaa wa anta raadhin 'annaa. Allahummarhamnii bitarkil ma'aasii abadan maa abqaitanii warhamnii an atakallafa maa laa ya'niinii warzuqnii khusnan nadhori fiimaa yurdhiika 'annaa yaa arhamar raahimiin._  
+  Artinya: "Ya Allah kami mohon terimalah doa dan amalan kami, lindungi dan ampunilah kami berilah pertolongan kepada kami untuk taat dan bersyukur kepada-Mu. Janganlah Engkau jadikan kami bergantung selain kepada-Mu. Matikanlah kami dalam Islam yang sempurna dalam keridhaan-Mu. Ya Allah rahmatilah diri kami sehingga mampu meninggalkan segala kejahatan selama hidup kami, dan rahmatlah diri kami sehingga tidak berbuat hal yang tidak berguna. Karuniakanlah kepada kami keridhaan-Mu. Wahai Tuhan yang bersifat Maha Pengasih Yang Penyayang."
 
 
 ### Tahalul
 Rangkaian ibadah yang terakhir adalah melakukan Tahallul atau mencukur rambut. Anjuran memotong rambut ini wajib dilakukan oleh seluruh jamaah ibadah umrah. Aturan memotong rambut minimal 3 helai rambut. Kendati demikian banyak para jamaah pria memutuskan untuk memotong sebagian rambutnya atau botak. Sedangkan untuk jamaah wanita dapat memotong sedikit rambutnya dibalik hijab. Setelah melakukan tahallul, jamaah dapat melakukan seluruh hal yang dilarang saat melakukan rangkaian umroh.
+- Doa menggunting rambut<br>  
+  اَللّٰهُمَّ اثْبُتْ لِيْ بِكُلِّ شَعْرَةٍ حَسَنَةً وَامْحُ عَنِّيْ بِهَا سَيِّئَةً وَارْفَعْ لِيْ عِنْدَكَ دَرَجَةً  
+
+
+  _Allâhumma-tsbut lî bi kuli sya’ratin ḫasanatan wa-mḫu ‘annî bihâ sayyi-atan wa-rfa‘ lî ‘indaka darajatan_  
+  Artinya: "Ya Allah, tetapkanlah kebaikan untukku lantaran setiap helai rambut ini, hapuslah keburukan dari diriku lantaran rambut ini, dan angkatlah derajatku di sisi-Mu."

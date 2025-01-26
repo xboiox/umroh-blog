@@ -1,3 +1,4 @@
+# Sholat
 | Prayer Time	| Makkah	| Madinah |
 | -- | -- | -- |
 | Fajr (Dawn)	| 5:40 AM	| 5:45 AM |

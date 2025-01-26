@@ -89,8 +89,6 @@ Sholat taubat adalah sholat yang dilakukan oleh seseorang yang menyesali perbuat
   </details>
 
 
-
-
 ## Sholat Tasbih
 Waktu pelaksanaan sholat tasbih dapat dilakukan kapan saja, baik siang hari ataupun malam hari, sepanjang tidak pada waktu yang dilarang untuk sholat. Namun terdapat perbedaan dalam teknis pelaksanaan shalat tasbih di siang dan malam hari.  
 Secara umum, sholat tasbih terdiri dari 4 rakaat. Jika dilaksanakan pada siang hari maka sholat Tasbih dilakukan 4 rakaat dengan satu kali salam. Sementara jika dilaksanakan pada malam hari maka sholat Tasbih dilakukan  4 rakaat namun 2 rakaat masing-masing dengan satu salam.  
@@ -121,3 +119,36 @@ Artinya: Maha Suci Allah, segala puji bagi Allah, tiada Tuhan selain Allah, Alla
 - Bangkit dari sujud, sebelum berdiri, duduk dan istirahat lalu membaca Tasbih sebanyak 10 kali.
 - Takbir dan berdiri
 - (Ketika duduk tahiyyat awal/akhir, setelahnya membaca Tasbih sebanyak 10 kali).
+
+## Sholat Subuh dengan Sujud Tilawah
+Sujud tilawah pada subuh Jumat adalah amalan sunnah yang dilakukan ketika membaca atau mendengar ayat sajdah dalam Al-Qur'an. Sujud tilawah dilakukan di dalam maupun di luar shalat. Pada salat subuh di hari Jumat, imam biasanya membaca surat As Sajdah dan surat Al Insan.  
+Melakukan sujud tilawah dalam keadaan sedang shalat dengan cara setelah dibacanya ayat sajdah maka bertakbir tanpa mengangkat tangan untuk kemudian turun bersujud satu kali. Setelah itu bangun dari posisi sujud untuk berdiri lagi dan melanjutkan shalatnya. Apabila ayat sajdah yang tadi dibaca berada di tengah surat maka ia kembali melanjutkan bacaan suratnya hingga selesai dan rukuk.
+<details>
+<summary>Nama-nama Surat yang ada Sajadahnya beserta doa Sujud Sajadah/ Tilawah yakni </summary>
+
+1. Surat Al A'raf ayat 206
+2. Surat Ar Ra'd ayat 15
+3. Surat An Nahl ayat 49
+4. Surat Al Isra ayat 107
+5. Surat Al Hajj ayat 18
+6. Surat Al Hajj ayat 77
+7. Surat Al Furqan ayat 60
+8. Surat An Naml ayat 25
+9. Surat As Sajdah ayat 15
+10. Surat Shad ayat 24
+11. Surat Fushilat ayat 37
+12. Surat An Najm ayat 62
+13. Surat Al Insyiqaq ayat 21
+14. Surat Al 'Alaq ayat 19
+15. Surat Maryam ayat 58
+</details>
+
+Berikut ini bacaan doa sujud tilawah:  
+
+سَجَدَ وَجْهِى لِلَّذِى خَلَقَهُ وَصَوَّرَهُ وَشَقَّ سَمْعَهُ وَبَصَرَهُ بِحَوْلِهِ وَقُوَّتِهِ تَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ
+
+
+_Sajada wajhiya lil ladzi khalaqahu wa shawwarahu wa syaqqa sam’ahu wa basharahu bi haulihi wa quwwatihi._  
+Artinya: “Bersujud wajahku kepada dzat yang telah menciptakannya, telah membentuknya, telah membukakan pendengaran dan penglihatannya dengan daya dan kekuatan-Nya.”
+
+Referensi: [Sujud Tilawah: Surat As-Sajdah - Ayat 15](https://youtu.be/Mh0E3B-FE9s?t=442) 

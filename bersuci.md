@@ -1,3 +1,4 @@
+# Bersuci
 ## Mandi Ihram
 - Hal pertama yang dilakukan adalah berniat dengan membaca niat ihram.<br>
 

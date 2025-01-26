@@ -94,7 +94,8 @@ Sholat taubat adalah sholat yang dilakukan oleh seseorang yang menyesali perbuat
 ## Sholat Tasbih
 Waktu pelaksanaan sholat tasbih dapat dilakukan kapan saja, baik siang hari ataupun malam hari, sepanjang tidak pada waktu yang dilarang untuk sholat. Namun terdapat perbedaan dalam teknis pelaksanaan shalat tasbih di siang dan malam hari.  
 Secara umum, sholat tasbih terdiri dari 4 rakaat. Jika dilaksanakan pada siang hari maka sholat Tasbih dilakukan 4 rakaat dengan satu kali salam. Sementara jika dilaksanakan pada malam hari maka sholat Tasbih dilakukan  4 rakaat namun 2 rakaat masing-masing dengan satu salam.  
-Adapun bacaan tasbih dalam sholat tasbih sebagai berikut:
+<details open>
+<summary>Adapun bacaan tasbih dalam sholat tasbih sebagai berikut</summary>
 
 سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلاَ إِلَهَ إِلاَّ اللَّهُ وَاللَّهُ أَكْبَرُ
 
@@ -102,7 +103,7 @@ Adapun bacaan tasbih dalam sholat tasbih sebagai berikut:
 
 _Subhaanallaah wal hamdu lillaahi wa laa ilaaha illallaahu wallaahu Akbar, wa laa haula wa laa quwwata illaa billaahil 'aliyyil azhiimi._  
 Artinya: Maha Suci Allah, segala puji bagi Allah, tiada Tuhan selain Allah, Allah Maha Besar. Tidak ada daya dan kekuatan kecuali dengan (izin) Allah yang Maha Tinggi lagi Maha Agung.
-
+</details>
 - Niat Mengerjakan sholat Tasbih
 
   أُصَلِّيْ سُنَّةَ التَسْبِيْحِ رَكْعَتَيْنِ لِلهِ تَعَالَى

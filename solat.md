@@ -87,3 +87,36 @@ Sholat taubat adalah sholat yang dilakukan oleh seseorang yang menyesali perbuat
     <img src='https://cms.wajibbaca.com/img/artikel/img-1114413912009114139.jpeg' width=50%><br>  
     Artinya: "Wahai Tuhanku, sesungguhnya waktu Dhuha adalah waktu Dhuha-Mu, keagungan adalah keagungan-Mu, keindahan adalah keindahan-Mu, kekuatan adalah kekuatan-Mu, dan kekuasaan adalah kekuasaan-Mu serta penjagaan adalah penjagaan-Mu. Ya Allah, jika rizqiku masih di atas langit, turunkanlah dan jika ada di dalam bumi, keluarkanlah. Jika sukar mudahkanlah, jika haram sucikanlah, jika masih jauh dekatkanlah, berkat waktu Dhuha, keagungan, keindahan, kekuatan dan kekuasaan-Mu, limpahkanlah kepada kami segala yang telah Engkau limpahkan kepada hamba-hamba-Mu yang saleh."
   </details>
+
+
+
+
+## Sholat Tasbih
+Waktu pelaksanaan sholat tasbih dapat dilakukan kapan saja, baik siang hari ataupun malam hari, sepanjang tidak pada waktu yang dilarang untuk sholat. Namun terdapat perbedaan dalam teknis pelaksanaan shalat tasbih di siang dan malam hari.  
+Secara umum, sholat tasbih terdiri dari 4 rakaat. Jika dilaksanakan pada siang hari maka sholat Tasbih dilakukan 4 rakaat dengan satu kali salam. Sementara jika dilaksanakan pada malam hari maka sholat Tasbih dilakukan  4 rakaat namun 2 rakaat masing-masing dengan satu salam.  
+Adapun bacaan tasbih dalam sholat tasbih sebagai berikut:
+
+سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلاَ إِلَهَ إِلاَّ اللَّهُ وَاللَّهُ أَكْبَرُ
+
+وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ
+
+_Subhaanallaah wal hamdu lillaahi wa laa ilaaha illallaahu wallaahu Akbar, wa laa haula wa laa quwwata illaa billaahil 'aliyyil azhiimi._  
+Artinya: Maha Suci Allah, segala puji bagi Allah, tiada Tuhan selain Allah, Allah Maha Besar. Tidak ada daya dan kekuatan kecuali dengan (izin) Allah yang Maha Tinggi lagi Maha Agung.
+
+- Niat Mengerjakan sholat Tasbih
+
+  أُصَلِّيْ سُنَّةَ التَسْبِيْحِ رَكْعَتَيْنِ لِلهِ تَعَالَى
+
+  _Ushallii sunnatat-Tasbiihi rak'ataini lillaahi Ta'aalaa._  
+  Artinya: "Aku berniat melaksanakan sholat sunnah Tasbih, sebanyak dua rakaat semata-mata karena Allah Ta'ala."
+- Melakukan Takbiratul Ihram
+- Membaca surat al-Fatihah
+- Membaca surat pendek. Membaca Tasbih sebanyak 15 kali.
+- Membaca Takbir, lalu ruku', kemudian membaca Tasbih sebanyak 10 kali.
+- Bangun dari ruku' (I'tidal), kemudian membaca Tasbih sebanyak 10 kali.
+- Melakukan Sujud, seraya membaca Tasbih sebanyak 10 kali.
+- Duduk di antara dua sujud dan membaca Tasbih sebanyak 10 kali.
+- Melakukan sujud kedua seraya membaca Tasbih sebanyak 10 kali.
+- Bangkit dari sujud, sebelum berdiri, duduk dan istirahat lalu membaca Tasbih sebanyak 10 kali.
+- Takbir dan berdiri
+- (Ketika duduk tahiyyat awal/akhir, setelahnya membaca Tasbih sebanyak 10 kali).

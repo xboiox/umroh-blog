@@ -47,3 +47,43 @@ Sholat taubat adalah sholat yang dilakukan oleh seseorang yang menyesali perbuat
   _Astaghfirullaahal'adziim, alladzii laa Ilaaha illa huwal hayyul qayyuumu wa atuubu ilaiih._  
   Artinya: "Saya mohon kepada Allah Yang Maha Agung, Dzat yang tiada Tuhan melainkan hanya Dia Yang Maha Hidup lagi Berdiri Sendiri. Aku bertaubat kepada-Nya."
 
+## Sholat Tahiyatul Masjid
+- Membaca niat sholat sunah tahiyatul masjid
+
+  اُصَلِّى سُنَّةً تَحِيَّةَ الْمَسْجِدِ رَكْعَتَيْنِ لِلّٰهِ تَعَالَى   
+
+
+  _Usholli sunnatan tahiyyatal masjidi rok'ataini lillaahi ta'ala._  
+  Artinya: "Saya niat shalat tahiyatul masjid dua rakaat karena Allah ta'ala."
+- Takbiratul Ihram, dan seterusnya sebagaimana pelaksanaan shalat pada umumnya sampai salam setelah dua rakaat.
+
+## Sholat Tahajud
+- Mengucapkan niat shalat Tahajud:
+
+  أُصَلِّيْ سُنَّةَ التَهَجُّدِ رَكْعَتَيْنِ لِلّٰهِ تَعَالَى  
+
+  _Ushalli sunnatat tahajjudi rak‘ataini lillahi ta‘ala._  
+  Artinya: “Aku menyengaja shalat sunnah Tahajud dua rakaat karena Allah ta’ala.”
+- Takbiratul ihram, dan seterusnya sebagaimana pelaksanaan shalat pada umumnya sampai salam setelah dua rakaat.
+
+## Sholat Dhuha
+- Niat sholat dhuha dua rakat
+
+  اُصَلِّى سُنَّةَ الضَّحٰى رَكْعَتَيْنِ مُسْتَقْبِلَ الْقِبْلَةِ اَدَاءً ِللهِ تَعَالَى    
+
+  _Ushalli sunnatadh dhuhaa rak'ataini lillaahi ta'aalaa_  
+  Artinya: "Aku niat salat sunnah dhuha dua rakaat, karena Allah ta'ala,"
+- Takbiratul ihram
+- Disarankan membaca surat Ad Dhuha pada rakaat pertama. Namun boleh juga membaca surah pendek lainnya.
+  <details>
+    <img src='https://juz-amma.lafalquran.com/wp-content/uploads/2022/08/Ad-Dhuha-Latin.jpg' width=50%>
+  </details>
+- Disarankan membaca surat Asy Syams pada rakaat kedua. Namun boleh juga membaca surah pendek lainnya.
+  <details>
+    <img src='https://juz-amma.lafalquran.com/wp-content/uploads/2022/08/Asy-Syams-Latin.jpg' width=50%>
+  </details>
+- Doa setelah sholat dhuha.
+  <details>
+    <img src='https://cms.wajibbaca.com/img/artikel/img-1114413912009114139.jpeg' width=50%><br>  
+    Artinya: "Wahai Tuhanku, sesungguhnya waktu Dhuha adalah waktu Dhuha-Mu, keagungan adalah keagungan-Mu, keindahan adalah keindahan-Mu, kekuatan adalah kekuatan-Mu, dan kekuasaan adalah kekuasaan-Mu serta penjagaan adalah penjagaan-Mu. Ya Allah, jika rizqiku masih di atas langit, turunkanlah dan jika ada di dalam bumi, keluarkanlah. Jika sukar mudahkanlah, jika haram sucikanlah, jika masih jauh dekatkanlah, berkat waktu Dhuha, keagungan, keindahan, kekuatan dan kekuasaan-Mu, limpahkanlah kepada kami segala yang telah Engkau limpahkan kepada hamba-hamba-Mu yang saleh."
+  </details>

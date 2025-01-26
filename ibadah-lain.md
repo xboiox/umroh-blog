@@ -29,3 +29,11 @@ Aku bersaksi bahwa engkau telah menyampaikan risalah, menunaikan amanah, menasih
 <img src='https://storage.nu.or.id/storage/post/16_9/mid/makam-rasulullah-mch_1688386830.webp' width=50%>
 </details>  
 
+## Sholat di Masjid Quba
+Masjid Quba terletak sekitar 4 kilometer dari Masjid Nabawi, Madinah. Masjid Quba dipercaya sebagai masjid yang pertama kali dibangun oleh Rasulullah Saw dan dipergunakan untuk shalat berjamaah secara terang-terangan. Saat pertama kali dibangun, masjid ini terletak 6 kilometer di pinggiran selatan Yatsrib (nama Madinah sebelumnya), di Desa Quba. Kala itu, Madinah belum diperluas hingga mencakup desa ini.  
+Quba pada dasarnya adalah sumur di perkampungan yang dihuni penduduk dari Bani Amr bin Auf milik Abu Ayyub Al-Ansari. Nabi Saw meletakkan beberapa batu bata dan para sahabatnya bergabung. Peletakan batu pertama pembangunan Masjid Quba dilakukan oleh Rasulullah Saw, lalu secara berurutan dilakukan oleh Abu Bakar, Umar, Utsman, dan Ali yang kemudian orang-orang Islam (penduduk asli atau pendatang) bersatu padu menyelesaikan pembangunannya.  
+Mengutip hadis dari Ibnu Majah, "Siapa yang berwuduk di rumahnya, lalu ia mendatangi Masjid Quba, dan ia melaksanakan salat di dalamnya, maka pahalanya seperti pahala umrah.”
+<details>
+<summary>Masjid Quba</summary>
+<img src='https://bb71d2eac085c69b0.nos.wjv-1.neo.id/1704963902-294820/17301819958591-chWReV5g7D.jpg' width=50%>
+</details>  

@@ -7,7 +7,7 @@ Daftar Isi
   - [Tahalul](https://github.com/xboiox/umroh-blog/blob/main/ibadah-umroh.md#tahalul)
 
 
-- [Bersuci](https://github.com/xboiox/umroh-blog/blob/main/bersuci.md#mandi)
+- [Bersuci (Thaharah)](https://github.com/xboiox/umroh-blog/blob/main/bersuci.md#mandi)
   - [Mandi Ihram](https://github.com/xboiox/umroh-blog/blob/main/bersuci.md#mandi-ihram)
   - [Tayamum](https://github.com/xboiox/umroh-blog/blob/main/bersuci.md#tayamum)
   - [Mandi Junub](https://github.com/xboiox/umroh-blog/blob/main/bersuci.md#mandi-junub)

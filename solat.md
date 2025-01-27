@@ -89,7 +89,6 @@ Sholat taubat adalah sholat yang dilakukan oleh seseorang yang menyesali perbuat
     Artinya: "Wahai Tuhanku, sesungguhnya waktu Dhuha adalah waktu Dhuha-Mu, keagungan adalah keagungan-Mu, keindahan adalah keindahan-Mu, kekuatan adalah kekuatan-Mu, dan kekuasaan adalah kekuasaan-Mu serta penjagaan adalah penjagaan-Mu. Ya Allah, jika rizqiku masih di atas langit, turunkanlah dan jika ada di dalam bumi, keluarkanlah. Jika sukar mudahkanlah, jika haram sucikanlah, jika masih jauh dekatkanlah, berkat waktu Dhuha, keagungan, keindahan, kekuatan dan kekuasaan-Mu, limpahkanlah kepada kami segala yang telah Engkau limpahkan kepada hamba-hamba-Mu yang saleh."
   </details>
 
-
 ## Sholat Tasbih
 Waktu pelaksanaan sholat tasbih dapat dilakukan kapan saja, baik siang hari ataupun malam hari, sepanjang tidak pada waktu yang dilarang untuk sholat. Namun terdapat perbedaan dalam teknis pelaksanaan shalat tasbih di siang dan malam hari.  
 Secara umum, sholat tasbih terdiri dari 4 rakaat. Jika dilaksanakan pada siang hari maka sholat Tasbih dilakukan 4 rakaat dengan satu kali salam. Sementara jika dilaksanakan pada malam hari maka sholat Tasbih dilakukan  4 rakaat namun 2 rakaat masing-masing dengan satu salam.  
@@ -121,6 +120,29 @@ Artinya: Maha Suci Allah, segala puji bagi Allah, tiada Tuhan selain Allah, Alla
 - Takbir dan berdiri
 - (Ketika duduk tahiyyat awal/akhir, setelahnya membaca Tasbih sebanyak 10 kali).
 
+## Sholat Jenazah
+Setiap usai salat fardhu di Masjidil Haram atau di Masjid Nabawi, muadzin biasanya menyerukan kepada jemaah untuk salat jenazah. Setelah berakhirnya salat fardhu muadzin mengumandangkan pangglan dengan lafadz: _Ash-shalatu 'alal amwati yarhakumullah_.. (dirikanlah salat jenazah untuk para mayit, semoga Allah merahmati kalian).  
+- Membaca niat  
+  Niat sholat jenazah untuk mayat laki-laki: "_Usholli 'ala hadzal mayyiti arba'a takbirotin fardho kifayati imaman/ma'muman lillahi ta'ala_"   
+  Niat sholat jenazah untuk mayat perempuan: "_Usholli 'ala hadzihil mayyitati arba'a takbirotin fardho kifayati imaman/ma'muman lillahi ta'ala_"
+- Takbir pertama, membaca Al-Fatihah. 
+- Takbir kedua, membaca Shalawat kepada Nabi Muhammad SAW.  
+  _Allahumma Solli A’la Sayyidina Muhammad._
+- Takbir ketiga, membaca doa minta ampun untuk jenazah.  
+  _Allahummaghfir-lahum Warhamhum Wa ‘Aafihum Wa‘fu ‘Anhum._  
+  <details>
+  <summary>Doa jika mengetahui mayat laki-laki/perempuan</summary>
+  laki-laki: Allahummaghfirla-hu warham-hu wa ‘aafi-hi wa’fu ‘an-hu<br>
+  perempuan: Allahummaghfirla-haa warham-haa wa ‘aafi-haa wa’fu ‘an-haa
+  </details>
+- Takbir keempat, Membaca doa berikut lalu salam.  
+  _Allahumma La Tahrimna Ajrahum Wa La Taftinna Ba’-dahum._   
+  <details>
+  <summary>Doa jika mengetahui mayat laki-laki/perempuan</summary>
+    laki-laki: Allahumma laa tahrimnaa ajro-hu wa laa taftinnaa ba’da-hu waghfir lanaa wa la-hu
+    perempuan: Allahumma laa tahrimnaa ajro-haa wa laa taftinnaa ba’da-haa waghfir lanaa wa la-haa
+  </details>
+  
 ## Sholat Subuh dengan Sujud Tilawah
 Sujud tilawah pada subuh Jumat adalah amalan sunnah yang dilakukan ketika membaca atau mendengar ayat sajdah dalam Al-Qur'an. Sujud tilawah dilakukan di dalam maupun di luar shalat. Pada salat subuh di hari Jumat, imam biasanya membaca surat As Sajdah dan surat Al Insan.  
 Melakukan sujud tilawah dalam keadaan sedang shalat dengan cara setelah dibacanya ayat sajdah maka bertakbir tanpa mengangkat tangan untuk kemudian turun bersujud satu kali. Setelah itu bangun dari posisi sujud untuk berdiri lagi dan melanjutkan shalatnya. Apabila ayat sajdah yang tadi dibaca berada di tengah surat maka ia kembali melanjutkan bacaan suratnya hingga selesai dan rukuk.
